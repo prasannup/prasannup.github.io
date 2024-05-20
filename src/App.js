@@ -154,7 +154,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href="https://github.com/Vishesh-Pandey/v-music"
+                href="https://github.com/prasannup/prasannup.github.io.git"
               >
                 <i className="bi bi-github mx-2"></i>Github
               </a>
